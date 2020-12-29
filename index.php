@@ -1,5 +1,6 @@
 <?php
-
+  $title = "Top 5 Learning Tips";
+  
 ?>
 <!DOCTYPE html>
 <html>
