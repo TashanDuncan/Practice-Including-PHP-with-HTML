@@ -1,12 +1,12 @@
 <?php
   $title = "Top 5 Learning Tips";
-  
+
 ?>
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset=utf-8>
-    <title>TITLE</title>
+    <title><?php echo $title; ?></title>
     <link href="css/style.css" rel="stylesheet" />
   </head>
   
@@ -16,7 +16,7 @@
           INCLUDE QUOTES
         </div>
         <div class="main">
-          <h1>TITLE</h1>
+          <h1><?php echo $title; ?></h1>
     
         INCLUDE TIPS
 
