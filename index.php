@@ -21,7 +21,7 @@
           <?php include "./inc/learning_tips.php"; ?>
 
         </div>
-        <div class="footer">Practice Completed: DATE</div>
+        <div class="footer">Practice Completed: <?php echo date("F j, Y");?></div>
     </div>
   </body>
 </html>
