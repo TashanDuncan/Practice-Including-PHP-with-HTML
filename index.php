@@ -1,9 +1,12 @@
+<?php
+
+?>
 <!DOCTYPE html>
 <html>
   <head>
-  	<meta charset=utf-8>
-  	<title>TITLE</title>
-  	<link href="css/style.css" rel="stylesheet" />
+    <meta charset=utf-8>
+    <title>TITLE</title>
+    <link href="css/style.css" rel="stylesheet" />
   </head>
   
   <body>
@@ -14,7 +17,7 @@
         <div class="main">
           <h1>TITLE</h1>
     
-         INCLUDE TIPS
+        INCLUDE TIPS
 
         </div>
         <div class="footer">Practice Completed: DATE</div>
