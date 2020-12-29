@@ -1,5 +1,4 @@
-# Practice-Including-PHP-with-HTML
-
+<?php
 //Step 1: Rename the index file so that the PHP code will be executed.
 
 //Step 2: Add a code block to the top of index and create a variable named $title and set it's value equal to "Top 5 Learning Tips"
